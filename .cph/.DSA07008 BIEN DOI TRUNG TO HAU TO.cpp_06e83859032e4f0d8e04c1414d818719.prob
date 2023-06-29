@@ -1,0 +1,1 @@
+{"name":"Local: DSA07008 BIEN DOI TRUNG TO HAU TO","url":"c:\\DSA\\DSA07008 BIEN DOI TRUNG TO HAU TO.cpp","tests":[{"id":1666622431615,"input":"2\n(A+(B+C)\n((A*B)+C)","output":"ABC++\nAB*C+"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA07008 BIEN DOI TRUNG TO HAU TO.cpp","group":"local","local":true}

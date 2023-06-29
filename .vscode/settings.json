@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp",
+        "cstdlib": "cpp",
+        "bitset": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "launch": {
+    
+        "configurations": [],
+        "compounds": []
+    }
+}

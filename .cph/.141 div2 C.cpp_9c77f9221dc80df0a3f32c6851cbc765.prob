@@ -1,0 +1,1 @@
+{"name":"Local: 141 div2 C","url":"d:\\DSA\\141 div2 C.cpp","tests":[{"id":1674013301937,"input":"5\nbbba\naba\naaa\nabba\nabbb","output":"b bb a"},{"id":1674098976009,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\141 div2 C.cpp","group":"local","local":true}

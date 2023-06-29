@@ -1,0 +1,1 @@
+{"name":"Local: DSA05012 TO HOP C(K,N)","url":"c:\\DSA\\DSA05012 TO HOP C(K,N).cpp","tests":[{"id":1665757046141,"input":"2\n5 2\n10 3","output":"10\n120"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA05012 TO HOP C(K,N).cpp","group":"local","local":true}

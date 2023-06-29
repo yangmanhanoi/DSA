@@ -1,0 +1,1 @@
+{"name":"Local: DUONG DI - 2","url":"c:\\DSA\\DUONG DI - 2.cpp","tests":[{"id":1667541920326,"input":"1\n\n6 9 1\n\n1 2 1 3 2 3 2 5 3 4 3 5 4 5 4 6 5 6","output":"1 2\n1 3\n1 3 4\n1 2 5\n1 2 5 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DUONG DI - 2.cpp","group":"local","local":true}

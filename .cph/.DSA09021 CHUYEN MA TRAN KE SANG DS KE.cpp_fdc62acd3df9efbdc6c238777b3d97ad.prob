@@ -1,0 +1,1 @@
+{"name":"Local: DSA09021 CHUYEN MA TRAN KE SANG DS KE","url":"c:\\DSA\\DSA09021 CHUYEN MA TRAN KE SANG DS KE.cpp","tests":[{"id":1667727596701,"input":"3\n0 1 1\n1 0 1\n1 1 0","output":"2 3\n1 3\n1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA09021 CHUYEN MA TRAN KE SANG DS KE.cpp","group":"local","local":true}

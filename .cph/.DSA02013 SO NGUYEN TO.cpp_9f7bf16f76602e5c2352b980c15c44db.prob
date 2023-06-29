@@ -1,0 +1,1 @@
+{"name":"Local: DSA02013 SO NGUYEN TO","url":"c:\\DSA\\DSA02013 SO NGUYEN TO.cpp","tests":[{"id":1665155434930,"input":"2\n2 7 28\n3 2 23","output":"1\n11 17\n2\n3 7 13\n5 7 11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA02013 SO NGUYEN TO.cpp","group":"local","local":true}

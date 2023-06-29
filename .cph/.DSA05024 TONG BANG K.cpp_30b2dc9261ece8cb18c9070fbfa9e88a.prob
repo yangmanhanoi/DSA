@@ -1,0 +1,1 @@
+{"name":"Local: DSA05024 TONG BANG K","url":"c:\\DSA\\DSA05024 TONG BANG K.cpp","tests":[{"id":1665765774265,"input":"2\n3 7\n1 5 6\n4 14\n12 3 1 9","output":"6\n150"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA05024 TONG BANG K.cpp","group":"local","local":true}

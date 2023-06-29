@@ -1,0 +1,1 @@
+{"name":"Local: DSA04004 GAP DOI DAY SO","url":"c:\\DSA\\DSA04004 GAP DOI DAY SO.cpp","tests":[{"id":1663928611047,"input":"3\n3 2\n4 8\n4 6","output":"2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA04004 GAP DOI DAY SO.cpp","group":"local","local":true}

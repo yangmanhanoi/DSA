@@ -1,0 +1,1 @@
+{"name":"Local: DSA10016 NOI DIEM","url":"c:\\DSA\\DSA10016 NOI DIEM.cpp","tests":[{"id":1669460475645,"input":"1\n3\n1.0 1.0\n2.0 2.0\n2.0 4.0","output":"3.414214"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA10016 NOI DIEM.cpp","group":"local","local":true}

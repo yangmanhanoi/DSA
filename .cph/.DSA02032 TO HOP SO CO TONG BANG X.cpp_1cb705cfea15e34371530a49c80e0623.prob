@@ -1,0 +1,1 @@
+{"name":"Local: DSA02032 TO HOP SO CO TONG BANG X","url":"c:\\DSA\\DSA02032 TO HOP SO CO TONG BANG X.cpp","tests":[{"id":1665219154514,"input":"2\n4  8\n2  4  6  8\n2 9\n10 11","output":"5 {2 2 2 2} {2 2 4} {2 6} {4 4} {8}\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA02032 TO HOP SO CO TONG BANG X.cpp","group":"local","local":true}

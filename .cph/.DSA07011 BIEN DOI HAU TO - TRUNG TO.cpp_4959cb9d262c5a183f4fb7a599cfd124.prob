@@ -1,0 +1,1 @@
+{"name":"Local: DSA07011 BIEN DOI HAU TO - TRUNG TO","url":"c:\\DSA\\DSA07011 BIEN DOI HAU TO - TRUNG TO.cpp","tests":[{"id":1666626148252,"input":"2\nAB+CD-*\nABC/-AK/L-*","output":"*+AB-CD\n*-A/BC-/AKL"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA07011 BIEN DOI HAU TO - TRUNG TO.cpp","group":"local","local":true}

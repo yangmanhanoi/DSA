@@ -1,0 +1,1 @@
+{"name":"Local: DSA11020 KIEM TRA CAY NHI PHAN TIM KIEM","url":"c:\\DSA\\DSA11020 KIEM TRA CAY NHI PHAN TIM KIEM.cpp","tests":[{"id":1664989428691,"input":"3\n5\n10 20 30 40 50\n6\n90 80 100 70 40 30\n3\n1 1 2","output":"1\n0\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA11020 KIEM TRA CAY NHI PHAN TIM KIEM.cpp","group":"local","local":true}

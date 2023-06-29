@@ -1,0 +1,1 @@
+{"name":"Local: Segment Tree B","url":"c:\\DSA\\Segment Tree B.cpp","tests":[{"id":1663578830082,"input":"5 3\n2 1 5 3 8\n2 1 4\n1 3 2\n2 2 5","output":"5\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\Segment Tree B.cpp","group":"local","local":true}

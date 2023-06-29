@@ -1,0 +1,1 @@
+{"name":"Local: DSA03001 DOI TIEN","url":"c:\\DSA\\DSA03001 DOI TIEN.cpp","tests":[{"id":1664556461371,"input":"2\n70\n121","output":"2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA03001 DOI TIEN.cpp","group":"local","local":true}

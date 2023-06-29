@@ -1,0 +1,1 @@
+{"name":"Local: D22 F String","url":"c:\\DSA\\D22 F String.cpp","tests":[{"id":1671702392487,"input":"abc aba abcd ghik\nbab aba abcd gcd\nbac bab","output":"aba 2\nbab 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\D22 F String.cpp","group":"local","local":true}

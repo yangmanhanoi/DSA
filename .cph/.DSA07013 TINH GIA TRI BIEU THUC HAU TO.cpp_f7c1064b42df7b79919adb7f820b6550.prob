@@ -1,0 +1,1 @@
+{"name":"Local: DSA07013 TINH GIA TRI BIEU THUC HAU TO","url":"c:\\DSA\\DSA07013 TINH GIA TRI BIEU THUC HAU TO.cpp","tests":[{"id":1666199909708,"input":"2\n231*+9-\n875*+9-","output":"-4\n34"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA07013 TINH GIA TRI BIEU THUC HAU TO.cpp","group":"local","local":true}

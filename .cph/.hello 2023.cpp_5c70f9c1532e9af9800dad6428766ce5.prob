@@ -1,0 +1,1 @@
+{"name":"Local: hello 2023","url":"d:\\DSA\\hello 2023.cpp","tests":[{"id":1672758662675,"input":"6\n2\nLL\n2\nLR\n2\nRL\n2\nRR\n7\nLLRLLLR\n7\nRRLRRRL","output":""},{"id":1672759886118,"input":"2\n2\nLL\n5\nLLRRR","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\hello 2023.cpp","group":"local","local":true}

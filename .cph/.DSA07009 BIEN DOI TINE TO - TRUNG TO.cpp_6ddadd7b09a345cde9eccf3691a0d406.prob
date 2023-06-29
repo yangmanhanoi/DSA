@@ -1,0 +1,1 @@
+{"name":"Local: DSA07009 BIEN DOI TINE TO - TRUNG TO","url":"c:\\DSA\\DSA07009 BIEN DOI TINE TO - TRUNG TO.cpp","tests":[{"id":1666195315525,"input":"2\n*+AB-CD\n*-A/BC-/AKL","output":"((A+B)*(C-D))\n((A-(B/C))*((A/K)-L)"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA07009 BIEN DOI TINE TO - TRUNG TO.cpp","group":"local","local":true}

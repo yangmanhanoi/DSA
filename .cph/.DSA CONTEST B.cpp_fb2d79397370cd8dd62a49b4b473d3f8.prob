@@ -1,0 +1,1 @@
+{"name":"Local: DSA CONTEST B","url":"c:\\DSA\\DSA CONTEST B.cpp","tests":[{"id":1661563977053,"input":"3\n100 1\n14315219 4\n100111 2","output":"0\n1119\n11"},{"id":1661564812695,"input":"1\n001 1","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA CONTEST B.cpp","group":"local","local":true}

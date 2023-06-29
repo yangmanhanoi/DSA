@@ -1,0 +1,1 @@
+{"name":"Local: DSA02005 HOAN VI XAU KY TU","url":"c:\\DSA\\DSA02005 HOAN VI XAU KY TU.cpp","tests":[{"id":1665074287602,"input":"2\nAB\nABC","output":"AB BA\nABC ACB BAC BCA CAB CBA "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA02005 HOAN VI XAU KY TU.cpp","group":"local","local":true}

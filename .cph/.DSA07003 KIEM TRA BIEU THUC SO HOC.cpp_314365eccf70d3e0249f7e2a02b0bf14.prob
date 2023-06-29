@@ -1,0 +1,1 @@
+{"name":"Local: DSA07003 KIEM TRA BIEU THUC SO HOC","url":"c:\\DSA\\DSA07003 KIEM TRA BIEU THUC SO HOC.cpp","tests":[{"id":1666173499084,"input":"3\n((a+b))\n(a + (b)/c)\n(a + b*(c-d))","output":"Yes\nYes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA07003 KIEM TRA BIEU THUC SO HOC.cpp","group":"local","local":true}

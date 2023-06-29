@@ -1,0 +1,1 @@
+{"name":"Local: DSA02038 DAY CON CO K PHAN TU TANG DAN","url":"c:\\DSA\\DSA02038 DAY CON CO K PHAN TU TANG DAN.cpp","tests":[{"id":1665412680191,"input":"1\n4 3\n3 2 5 4","output":"2 3 4\n2 3 5\n2 4 5\n3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA02038 DAY CON CO K PHAN TU TANG DAN.cpp","group":"local","local":true}

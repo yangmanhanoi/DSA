@@ -1,0 +1,1 @@
+{"name":"Local: DSA06047 BO BA SO PYTAGO","url":"c:\\DSA\\DSA06047 BO BA SO PYTAGO.cpp","tests":[{"id":1661431072108,"input":"2\n5\n3 1 4 6 5\n3\n1 1 1","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA06047 BO BA SO PYTAGO.cpp","group":"local","local":true}

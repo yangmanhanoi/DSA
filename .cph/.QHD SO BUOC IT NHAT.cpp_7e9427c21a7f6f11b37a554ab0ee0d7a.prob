@@ -1,0 +1,1 @@
+{"name":"Local: QHD SO BUOC IT NHAT","url":"c:\\DSA\\QHD SO BUOC IT NHAT.cpp","tests":[{"id":1662400993349,"input":"2\nboo\nmoo\nhello\nhei\n","output":"1\n3\n"},{"id":1662401105953,"input":"1\nhello\nolleh","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\QHD SO BUOC IT NHAT.cpp","group":"local","local":true}

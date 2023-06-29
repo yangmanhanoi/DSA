@@ -1,0 +1,1 @@
+{"name":"Local: DSA03020 BIEU THUC DUNG","url":"c:\\DSA\\DSA03020 BIEU THUC DUNG.cpp","tests":[{"id":1671466588376,"input":"2\n[]][][\n[][][]","output":""},{"id":1671468170948,"input":"2\n][[]]][[\n[][][[[]]]","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA03020 BIEU THUC DUNG.cpp","group":"local","local":true}

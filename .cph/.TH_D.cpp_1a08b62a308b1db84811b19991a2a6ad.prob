@@ -1,0 +1,1 @@
+{"name":"Local: TH_D","url":"c:\\DSA\\TH_D.cpp","tests":[{"id":1663493248997,"input":"4\nDONG TAY NAM BAC\nNAM","output":"BAC DONG TAY NAM\nBAC TAY DONG NAM\nDONG BAC TAY NAM\nDONG TAY BAC NAM\nTAY BAC DONG NAM\nTAY DONG BAC NAM"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\TH_D.cpp","group":"local","local":true}

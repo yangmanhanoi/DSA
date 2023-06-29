@@ -1,0 +1,1 @@
+{"name":"Local: DSA01002 TAP CON KE TIEP","url":"c:\\DSA\\DSA01002 TAP CON KE TIEP.cpp","tests":[{"id":1660875163559,"input":"3\n\n5  3\n\n1  4  5\n\n5  3\n\n3  4  5\n5 3\n2 3 4","output":"2  3  4\n\n1  2  3\n2 3 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA01002 TAP CON KE TIEP.cpp","group":"local","local":true}

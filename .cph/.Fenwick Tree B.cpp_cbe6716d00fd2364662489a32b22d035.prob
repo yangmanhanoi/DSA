@@ -1,0 +1,1 @@
+{"name":"Local: Fenwick Tree B","url":"c:\\DSA\\Fenwick Tree B.cpp","tests":[{"id":1664010552978,"input":"7\n2 1 3 2 4 5 4","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\Fenwick Tree B.cpp","group":"local","local":true}

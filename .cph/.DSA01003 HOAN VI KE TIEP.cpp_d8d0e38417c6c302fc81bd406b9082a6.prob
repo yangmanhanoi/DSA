@@ -1,0 +1,1 @@
+{"name":"Local: DSA01003 HOAN VI KE TIEP","url":"c:\\DSA\\DSA01003 HOAN VI KE TIEP.cpp","tests":[{"id":1660875876648,"input":"2\n\n5 \n\n1  2  3  4  5\n\n5\n\n5  4  3  2  1","output":"1 2  3  5  4\n\n1 2  3  4  5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA01003 HOAN VI KE TIEP.cpp","group":"local","local":true}

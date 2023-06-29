@@ -1,0 +1,1 @@
+{"name":"Local: DSA09002 CHUYEN TU DS KE SANG DS CANH","url":"c:\\DSA\\DSA09002 CHUYEN TU DS KE SANG DS CANH.cpp","tests":[{"id":1667649211325,"input":"3\n2 3\n1 3\n1 2","output":"1 2\n1 3\n2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA09002 CHUYEN TU DS KE SANG DS CANH.cpp","group":"local","local":true}

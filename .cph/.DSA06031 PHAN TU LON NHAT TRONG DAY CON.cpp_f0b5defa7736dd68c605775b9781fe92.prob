@@ -1,0 +1,1 @@
+{"name":"Local: DSA06031 PHAN TU LON NHAT TRONG DAY CON","url":"c:\\DSA\\DSA06031 PHAN TU LON NHAT TRONG DAY CON.cpp","tests":[{"id":1661278908970,"input":"2\n4 2\n-2 0 1 3\n5 12\n5 1 3 4 7","output":"2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA06031 PHAN TU LON NHAT TRONG DAY CON.cpp","group":"local","local":true}

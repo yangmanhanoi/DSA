@@ -1,0 +1,1 @@
+{"name":"Local: QHD GIAI THUA","url":"c:\\DSA\\QHD GIAI THUA.cpp","tests":[{"id":1662703705444,"input":"2\n1 3 2\n4 5 1","output":"144\n2880"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\QHD GIAI THUA.cpp","group":"local","local":true}

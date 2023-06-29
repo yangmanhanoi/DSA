@@ -1,0 +1,1 @@
+{"name":"Local: DSA06014 TONG CAP SO NGUYEN TO","url":"c:\\DSA\\DSA06014 TONG CAP SO NGUYEN TO.cpp","tests":[{"id":1661015225831,"input":"3\n4\n8\n2","output":"2 2\n3 5\n-1"},{"id":1661015271778,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA06014 TONG CAP SO NGUYEN TO.cpp","group":"local","local":true}

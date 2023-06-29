@@ -1,0 +1,1 @@
+{"name":"Local: DSA09037 HOP MAT","url":"c:\\DSA\\DSA09037 HOP MAT.cpp","tests":[{"id":1668180456035,"input":"2 4 4\n2\n3\n1 2\n1 4\n2 3\n3 4","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA09037 HOP MAT.cpp","group":"local","local":true}

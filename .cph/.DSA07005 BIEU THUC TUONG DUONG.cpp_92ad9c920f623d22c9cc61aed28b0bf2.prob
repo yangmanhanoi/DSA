@@ -1,0 +1,1 @@
+{"name":"Local: DSA07005 BIEU THUC TUONG DUONG","url":"c:\\DSA\\DSA07005 BIEU THUC TUONG DUONG.cpp","tests":[{"id":1671591560155,"input":"2\na-(b+c)\na-(b-c-(d+e))-f","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA07005 BIEU THUC TUONG DUONG.cpp","group":"local","local":true}

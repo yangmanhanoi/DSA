@@ -1,0 +1,1 @@
+{"name":"Local: DSA01007 XAU AB CO DO DAI N","url":"c:\\DSA\\DSA01007 XAU AB CO DO DAI N.cpp","tests":[{"id":1660881014977,"input":"2\n\n2\n\n3","output":"AA AB BA BB\nAAA AAB ABA ABB BAA BAB BBA BBB"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA01007 XAU AB CO DO DAI N.cpp","group":"local","local":true}

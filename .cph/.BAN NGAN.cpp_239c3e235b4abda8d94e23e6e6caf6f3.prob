@@ -1,0 +1,1 @@
+{"name":"Local: BAN NGAN","url":"c:\\DSA\\BAN NGAN.cpp","tests":[{"id":1667359558240,"input":"2\nBa Dinh\n123\n15\n1\nHoan Kiem\n44\n33\n22","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\BAN NGAN.cpp","group":"local","local":true}

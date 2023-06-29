@@ -1,0 +1,1 @@
+{"name":"Local: GB2023_B","url":"d:\\DSA\\GB2023_B.cpp","tests":[{"id":1672475186066,"input":"3\n5 3\n5 1\n6 6","output":""},{"id":1672475218485,"input":"1\n1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\GB2023_B.cpp","group":"local","local":true}

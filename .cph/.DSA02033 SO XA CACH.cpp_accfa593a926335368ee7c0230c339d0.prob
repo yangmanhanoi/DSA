@@ -1,0 +1,1 @@
+{"name":"Local: DSA02033 SO XA CACH","url":"c:\\DSA\\DSA02033 SO XA CACH.cpp","tests":[{"id":1665077409085,"input":"2\n3\n4","output":"\n2413\n3142"},{"id":1665077713889,"input":"1\n4","output":"2413\n3142"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA02033 SO XA CACH.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: SPOJ ACM1 H","url":"c:\\DSA\\SPOJ ACM1 H.cpp","tests":[{"id":1663772349958,"input":"3\n1 11\n4 2\n191 31415926","output":"1\n0\n1337"},{"id":1663830991768,"input":"1231 312 121","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\SPOJ ACM1 H.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: DSA03017 GTNN CUA XAU","url":"c:\\DSA\\DSA03017 GTNN CUA XAU.cpp","tests":[{"id":1671453042088,"input":"2\n2\nABCCBC\n2\nAAAB","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA03017 GTNN CUA XAU.cpp","group":"local","local":true}

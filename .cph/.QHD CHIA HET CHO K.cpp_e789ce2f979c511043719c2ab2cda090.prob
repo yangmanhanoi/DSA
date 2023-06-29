@@ -1,0 +1,1 @@
+{"name":"Local: QHD CHIA HET CHO K","url":"c:\\DSA\\QHD CHIA HET CHO K.cpp","tests":[{"id":1662710998228,"input":"2\n10 3\n2 3 5 7 9 6 12 7 11 15\n8 2\n3 4 2 5 6 3 4 5","output":"9\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\QHD CHIA HET CHO K.cpp","group":"local","local":true}

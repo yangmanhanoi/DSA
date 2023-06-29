@@ -1,0 +1,1 @@
+{"name":"Local: DSLK B","url":"c:\\DSA\\DSLK B.cpp","tests":[{"id":1664249522677,"input":"10\n1 2\n1 3\n2 1\n5\n4\n5\n3\n5\n4\n5","output":"1 2 3 \n1 2 \n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSLK B.cpp","group":"local","local":true}

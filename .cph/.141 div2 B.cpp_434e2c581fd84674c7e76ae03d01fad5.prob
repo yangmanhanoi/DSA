@@ -1,0 +1,1 @@
+{"name":"Local: 141 div2 B","url":"d:\\DSA\\141 div2 B.cpp","tests":[{"id":1673194077143,"input":"1\n4","output":"1 16 2 15 \n13 4 14 3 \n5 12 6 11 \n9 8 10 7"},{"id":1673194104598,"input":"2\n2\n3","output":"1 4 \n3 2 \n1 9 2 \n7 3 8 \n4 6 5 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\141 div2 B.cpp","group":"local","local":true}

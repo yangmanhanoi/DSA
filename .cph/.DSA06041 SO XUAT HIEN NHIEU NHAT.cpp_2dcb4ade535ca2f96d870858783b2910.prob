@@ -1,0 +1,1 @@
+{"name":"Local: DSA06041 SO XUAT HIEN NHIEU NHAT","url":"c:\\DSA\\DSA06041 SO XUAT HIEN NHIEU NHAT.cpp","tests":[{"id":1661393220785,"input":"2\n9\n3 3 4 2 4 4 2 4 4\n8\n3 3 4 2 4 4 2 4","output":"4\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA06041 SO XUAT HIEN NHIEU NHAT.cpp","group":"local","local":true}

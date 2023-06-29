@@ -1,0 +1,1 @@
+{"name":"Local: DSA02008 CHON SO TU MA TRAN VUONG CAP N","url":"c:\\DSA\\DSA02008 CHON SO TU MA TRAN VUONG CAP N.cpp","tests":[{"id":1662718662881,"input":"3 10\n2 4 3\n1 3 6\n4 2 4","output":"2\n1 3 2\n3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\DSA02008 CHON SO TU MA TRAN VUONG CAP N.cpp","group":"local","local":true}

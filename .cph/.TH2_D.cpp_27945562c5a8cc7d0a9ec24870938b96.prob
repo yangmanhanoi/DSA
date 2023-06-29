@@ -1,0 +1,1 @@
+{"name":"Local: TH2_D","url":"c:\\DSA\\TH2_D.cpp","tests":[{"id":1664713529662,"input":"3\n\n1 3 5\n\n1 1 1\n\n1 2 10","output":"1.1542\n0.6823\n1.8474"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\TH2_D.cpp","group":"local","local":true}

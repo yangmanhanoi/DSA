@@ -1,0 +1,1 @@
+{"name":"Local: Segment Tree and Lazy I","url":"c:\\DSA\\Segment Tree and Lazy I.cpp","tests":[{"id":1663953000396,"input":"5 3\n1 5\n2 4\n3 5","output":"1 0 1 1 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\Segment Tree and Lazy I.cpp","group":"local","local":true}

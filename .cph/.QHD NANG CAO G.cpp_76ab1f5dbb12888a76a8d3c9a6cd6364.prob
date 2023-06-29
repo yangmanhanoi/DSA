@@ -1,0 +1,1 @@
+{"name":"Local: QHD NANG CAO G","url":"c:\\DSA\\QHD NANG CAO G.cpp","tests":[{"id":1663164770744,"input":"2\n2\n1 5\n2 1\n3\n1 2 3\n6 5 4\n8 1 2","output":"Case 1: 7\nCase 2: 16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\QHD NANG CAO G.cpp","group":"local","local":true}
